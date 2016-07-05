@@ -1,0 +1,509 @@
+YC
+Y Combinator
+YCombinator
+Sam Altman
+Trevor Blackwell
+Tim Brady
+Paul Buchheit
+Dalton Caldwell
+Jared Friedman
+Paul Graham
+Kevin Hale
+Aaron Harris
+Justin Kan
+Carolynn Levy
+Jon Levy
+Jessica Livingston
+Kat Manalac
+Robert Morris
+Kirsty Nathoo
+Geoff Ralston
+Ali Rowghani
+Michael Seibel
+Qasar Younis
+YC S16
+S16
+YC W15
+W15
+YC S15
+S15
+YC W14
+W14
+YC S14
+S14
+Reddit
+Loopt
+ClickFacts
+Kiko
+Infogami
+Wufoo
+Snipshot
+InklingMarkets
+AudioBeta
+Scribd
+Xobni
+OMGPOP
+Snipshot
+Buxfer
+Zenter
+VirtualMin
+Tsumobi
+Weebly
+InklingMarkets
+Auctomatic
+Heysan
+Parakey
+Octopart
+Draftmix
+Songkick
+Zecter
+Clickpass
+Bountii
+Disqus
+Dropbox
+RescueTime
+BaseShield
+Heroku
+Joberator
+280 North
+Chatterous
+Omnisio
+FathomDB
+Cloudant
+Backtype
+Anyvite
+Slinkset
+Scoopler
+PollEverywhere
+ContestMachine
+Foodoro
+Echodio
+Lingt
+Wattvision
+AirBnb
+FathomDB
+Divvyshot
+Heyzap
+Adioso
+reMail
+Heyzap
+CardPool
+WePay
+TheSixtyOne
+Flightcaster
+FanChatter
+Olark
+Listia
+RethinkDB
+DirectedEdge
+GraffitiGeo
+Bump
+Mixpanel
+MeetingMix
+Lockitron
+Cloudkick
+500Friends
+1000Memories
+Launchhear
+MailGun
+Embedly
+FutureAdvisor
+Zencoder
+Gamador
+Swagapalooza
+ChromaOm
+HomeJoy
+Browsarity
+Zenedy
+datamarketplace
+Meetings.io
+500Friends
+GinzaMetrics
+AdGrok
+140bets
+Etacts
+Chart.io
+Indinero
+MessageParty
+GazeHawk
+Crowdbooster
+SeeingInteractive
+E la Carte
+AeroFS
+Dotcloud
+Rapportive
+The Fridge
+OhLife
+Stripe
+Teevox
+Gantto
+Hipmunk
+AeroFS
+FanPulse
+Movity
+PagerDuty
+Noteleaf
+Custora
+MinoMonsters
+Five Stars
+Dr Chrono
+Grove
+SwipeGood
+WhereBerry
+Acunote
+TellFi
+Curebit
+Sendoid
+Like.fm
+HelloFax
+AppHarbor
+Bridge
+Kaleidoscope
+NowJS
+YouGotListings
+Beetailer
+Humble Bundle
+MailGun
+Science Exchange
+SellStage
+Vidyard
+Clutch.io
+FreshPlum
+RapGenius
+Meetings.io
+MemSQL
+Launchpad Toys
+Taskforce
+Siasto
+Stypi
+Glassmap
+Munch On Me
+Zigfu
+Leaky
+AgileDiagnosis
+Yardsale
+Opez
+Paperlinks
+Proxino
+Agile Diagnosis
+MarketBrief
+Lanyrd
+Mertado
+Meteor
+Codecademy
+Hyperink
+Kicksend
+Comprehend Systems
+MinoMonsters
+MixRank
+Priceonomics
+Vayable
+Vayable
+Swiftype
+Pixelapse
+Vastrm
+Install Monetizer
+GetGoing
+FamilyLeaf
+InstantCab
+Rescale
+HireArt
+Bridge
+Aisle50
+Custora
+Embark
+ZenPayroll
+GoCardless
+TrustEgg
+Quartzy
+Midnox
+HackPad
+Coderwall
+Dealupa
+Sonalight
+Medigram
+FarmLogs
+Flypad
+LVL6
+Per Vices
+AnyVivo
+Per Vices
+Shoptiques
+99dresses
+iCracked
+Zillabyte
+Ark
+SendHub
+Anyperk
+Pair
+Crowdtilt
+Firebase
+FlightFox
+Filghtfox
+PlanGrid
+Grouper
+Kamcord
+Instacart
+Kippt
+Survata
+Clever
+Chute
+Flutter
+Citus Data
+Virool
+Filepicker.io
+9GAG
+HiMom
+Newsblur
+Healthy Labs
+Easel
+BigCalc
+Markupwand
+Mth Sense
+SpinPunch
+Profig
+Parallel Universe
+MicroEval
+VoiceGem
+BufferBox
+LightTable
+imgfave
+Knowmia
+HD Trade Services
+BoostedBoards
+Statwing
+QuicklyChat
+DataNitro
+Five Stars
+Scoutzie
+Your Mechanic
+Coinbase
+ReelSurfer
+Shoptiques
+StudyEdge
+Perfect Audience
+Mattermark
+FundersClub
+Clever
+Tastemaker
+Lawdingo
+Submittable
+Amicus
+WeFunder
+Sponsorfied
+Terascore
+ZenPayroll
+Canopy Labs
+Zaranga
+Thalmic Labs
+PayTango
+Keychain Logistics
+Svbtle
+Experiment
+CrowdMed
+FlightCar
+Upverter
+Panorama Education
+Fivetran
+CoreOS
+Lob
+Estimote
+Wevorce
+BitNami
+Reebee
+Panorama
+Errplane
+Weilos
+RealCrowd
+LocalOn
+Senic
+Hum
+Regalii
+Semantics3
+ixi-play
+Webflow
+Butter Systems
+DataRank
+Asseta
+True Link Financial
+Amulyte
+SwapBox
+Lollipuff
+Lumoid
+Amiato
+Sift Science
+Airware
+Teespring
+CircuitLab
+Backlift
+Kivo
+Meta Space Glasses
+One Month Rails
+URX
+Floobits
+Watchsend
+Toutpost
+SimpleLegal
+Glio
+Screenhero
+Apptimize
+EasyPost
+Watsi
+Zenefits
+Taskforce
+Siasto
+Heap Analytics
+Vastrm
+Goldbely
+SpoonRocket
+SimplyInsured
+CodeCombat
+Bop.fm
+EasyPost
+Two Tap
+StackLead
+MadeSolid
+CodeNow
+Abacus
+CareMessage
+Style Lend
+CodeCombat
+Eventjoy
+Gbatteries
+Pushbullet
+SketchDeck
+Threadable
+Sendwithus
+Cruise
+Orankl
+AirPair
+Gobble
+Cambly
+Wit.ai
+Taplytics
+The Dating Ring
+Vidpresso
+Boostable
+Shoobs
+Apptimize
+Ambition
+Minuum
+Bloomthat
+Lumoid
+RealCrowd
+TrueVault
+Rigetti Computing
+Povio
+FutureAdvisor
+CrowdMed
+Bellabeat
+Beep
+ShipBob
+Flytenow
+LivBlends
+Move Loot
+Weave
+Algolia
+BlockScore
+Bikanta
+Shout
+Neptune.io
+Aptible
+Onename.io
+Theorem
+Bannerman
+PersistIQ
+Vizera Labs
+Sliced Investing
+Naytev
+Backpack
+Shift Payments
+TicketLabs
+PicnicHealth
+Glowing Plant
+Nightingale
+uBiome
+Carlypso
+Doblet
+Greentoe
+TradeBlock
+Roost
+Zen99
+Checkr
+UPower
+Fixed
+Helion Energy
+Underground Cellar
+Campus Job
+CribSpot
+Outbound
+Parenthoods
+Pigeonly
+Luka
+20n
+Slidemail
+Nomiku
+Notable Labs
+TheMidGame
+MashGin
+Pakible
+DroneBase
+Moltin
+NexTravel
+Instavest
+Spire
+Akido Labs
+Pomello
+Rescue Forensics
+SigOpt
+Raven Tech
+Gradberry
+TeamNote
+InsiteVR
+Pachyderm
+KickPay
+EquipmentShare
+MetricWire
+SmartHires
+Open Listings
+Lumi
+Pretty Instant
+Dealyze
+BuildScience
+Labdoor
+TaskPipes
+Cinder
+Bagaveev Corporation
+VetPronto
+ReSchedule
+Popular Pays
+Atomwise
+Treeline
+Industrial Microbes
+GiveMeTap
+Kickback
+Zenflow
+SIRUM
+Transcriptic
+Diassess
+ReadMe
+Bankjoy
+Priime
+Trackin
+analyticsMD
+Perceptiv Labs
+Omniref
+Standard Cyborg
+LabDoor
+Campus Job
+ShiftLabs
+500startups
+Techstars
+DreamIT Ventures
+Startupbootcamp
+Seedcamp
+The Alchemist Accelerator
+AngelPad
+Boost VC
+Nxtp.labs
+Betaspring
