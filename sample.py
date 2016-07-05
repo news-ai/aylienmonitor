@@ -41,12 +41,15 @@ while counter < 5:
                 # sort_by=sort_by
                 )
         for story in api_response.stories:
-            print(story.title)
+            print('TITLE: ' + story.title)
             # print(story.body)
-            print(story.summary.sentences)
+            print('SUMMARY: ')
+            for sentence in story.summary.sentences:
+                print(sentence)
             print('SOURCE: ' + story.source.domain)
             print('AUTHOR: ' + story.author.name)
             entities = [entity.text for entity in story.entities.body]
+            print('ENTITIES: ')
             print(entities)
             print(story.links.permalink)
             print(' ')
